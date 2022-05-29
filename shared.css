@@ -11,6 +11,7 @@
   align-items: center;
   font-size: 18px;
   font-family: 'Courier New', Courier, monospace;
+  z-index: 100;
 }
 
 .disable-dedistract .dedistract-banner {
@@ -31,6 +32,7 @@
   align-items: center;
   font-size: 18px;
   font-family: 'Courier New', Courier, monospace;
+  z-index: 100;
 }
 .dedistract-dialog > div {
   display: block;
